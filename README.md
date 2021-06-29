@@ -8,8 +8,8 @@ Some of the technologies I enjoy working with are Java, Kotlin and Gradle. I rec
 
 # Find me around the internet 🌎 : 
 
-- Sharing my professional growth on LinkedIn as [@MarlonHndz](https://www.linkedin.com/in/marlonhndz/)
-- Continuously monologating on Twitter as [@Marlon_Hndz](https://twitter.com/Marlon_Hndz) 💬 
+- Sharing my professional growth on **LinkedIn as [@MarlonHndz](https://www.linkedin.com/in/marlonhndz/)**
+- Continuously monologating on **Twitter as [@Marlon_Hndz](https://twitter.com/Marlon_Hndz)** 💬 
 
 
 *Feel free to contact me if you have an Android challenge, have any questions, or just chat!*
