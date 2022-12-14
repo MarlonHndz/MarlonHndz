@@ -4,7 +4,9 @@
 
 I am a software engineer passionate about Android, the growth of those around me and a ❣️ lover of technology, 🎵 music, anime and video games 🎮, if I may say that around here.😉✨
 
-Some of the technologies I enjoy working with are Java, Kotlin and Gradle. I recently wrote a concept book 📘 for interviews, going through OOP, Android Components, Android Jetpack, Architecture Patterns, Kotlin, and more, which I'll be virtually posting on some blogs and linking here in the next few days ⏰ (When the cover design is finished :octocat:).
+Some of the technologies I enjoy working with are Java, Kotlin and Gradle. I'm recently writing a concept book/blog 📘 for interviews in Medium, going through OOP, Android Components, Android Jetpack, Architecture Patterns, Kotlin, and more. 
+
+:octocat: You may find its firts volume here: 🔗 [CLOC VOL 1](https://medium.com/@marlonhndz/cleveritos-list-of-concepts-cloc-vol-1-diccionario-de-conceptos-para-desarrolladores-android-b871d3fbfd9d)
 
 # Find me around the internet 🌎 : 
 
