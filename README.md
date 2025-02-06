@@ -2,11 +2,12 @@
 
 ![Android Banner](https://user-images.githubusercontent.com/16215046/122137021-56219100-ce09-11eb-82fa-018fb5d04f39.jpg)
 
-I am a software engineer passionate about Android, the growth of those around me and a ❣️ lover of technology, 🎵 music, anime and video games 🎮, if I may say that around here.😉✨
+Software Engineer and Android developer with over 8 years of experience in the world of technology. Since 2016, I have worked on high-impact projects for renowned international companies such as Disney, Globant, Dafiti, Backbase, REI.com, and Smile Direct Club, among others. My career has been characterized by my ability to face complex challenges, contribute to innovative solutions, and stay at the forefront of mobile technologies, particularly in the Android ecosystem.
 
-Some of the technologies I enjoy working with are Java, Kotlin and Gradle. I'm recently writing a concept book/blog 📘 for interviews in Medium, going through OOP, Android Components, Android Jetpack, Architecture Patterns, Kotlin, and more. 
+Beyond the world of programming, I find inspiration in other passions such as music 🎵, anime, and video games🎮, which also serve as a source of creativity and innovation in my day-to-day life.
+Convinced that knowledge grows when it is shared, I have written this blog to help other developers and technology enthusiasts master the basics of programming and harness its potential to develop efficient and elegant applications.
 
-:octocat: You may find its firts volume here: 🔗 [CLOC VOL 1](https://marlonhndz.github.io/IamCleverito/ui/portfolio/cloc_vol_one/book_index.html)
+:octocat: You may find my library here: 🔗 [CLOC'S LIBRARY](https://marlonhndz.github.io/IamCleverito/ui/library/library_index.html)
 
 # Find me around the internet 🌎 : 
 
